@@ -2,7 +2,7 @@
 
 Official academic project website source for TED University, Department of Computer Engineering. CMPE 491 – Capstone Design Project I, with continuation in CMPE 492, Academic Year 2026–2027.
 
-**Status:** proposal stage. This package is ready for GitHub Pages. It has not been deployed by this delivery. The planned public URL is https://beratergun.github.io/perdrobe/ . The application, recommendation experiments and outcomes described on the site are planned work.
+**Status:** proposal stage. The academic website is deployed on GitHub Pages at https://beratergun.github.io/perdrobe/ . Deployment was verified on 16 October 2026. The publishing source is `main` / `/(root)`. The application, recommendation experiments and outcomes described on the site are planned work.
 
 Team: Yiğit Özmut, Atay Aktürk and Seyid Berat Ergün. Supervisor: Ayşenur Birtürk. Both jury members are to be determined by the supervisor.
 
