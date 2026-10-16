@@ -21,9 +21,12 @@ perdrobe/
     architecture.png
   documents/
     PerDrobe_CMPE491_Project_Proposal.pdf
+    PerDrobe_CMPE491_Technical_Annex.pdf
   proposal/
     PerDrobe_CMPE491_Project_Proposal.docx
+    PerDrobe_CMPE491_Technical_Annex.docx
     PerDrobe_LMS_Project_Description.txt
+    PerDrobe_LMS_Submission.txt
 ```
 
 No framework, build step, JavaScript, backend, analytics, API key or external font is required. All internal resources use relative paths and work under the `/perdrobe/` project prefix. Student numbers are omitted from the visible team section; the downloadable proposal includes all three student numbers supplied by the team.
@@ -70,3 +73,11 @@ Core scope includes digital wardrobe management, personalized outfits, supported
 ## Website presentation
 
 The page uses local serif and sans-serif fonts, a warm paper background and restrained accent colors. The Outfit Remix example is illustrative and does not display a measured result. The architecture is rendered as responsive HTML layers. Navigation remains available while scrolling, with visible keyboard focus and reduced-motion support. The A/B/C comparison adapts to narrow screens without horizontal scrolling.
+
+## Course proposal and technical annex
+
+The main Project Proposal is one page: project name, live webpage URL, team members, supervisor, jury status and exactly two project-description paragraphs. The course instruction limits the description to 1–2 paragraphs; it does not state a total proposal page limit. One page is the chosen concise presentation, not a claimed mandatory page count.
+
+The previous eight-page document is retained separately as a Technical Annex. It provides optional engineering detail and is not presented as an additional course requirement. Use `proposal/PerDrobe_LMS_Submission.txt` for the form fields and `proposal/PerDrobe_LMS_Project_Description.txt` for the description alone. Both jury names must be confirmed by the supervisor before the names requirement can be completed.
+
+The course instruction also requires LMS submission and email delivery to the supervisor and jury. Publishing the page does not perform those submission steps. No email or LMS submission was made by this package.
