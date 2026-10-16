@@ -16,6 +16,7 @@ perdrobe/
   .gitignore
   README.md
   assets/
+    favicon.svg
     architecture.svg
     architecture.png
   documents/
@@ -65,3 +66,7 @@ Open `index.html` directly, or run a static server from this directory (for exam
 ## Content and data boundaries
 
 Core scope includes digital wardrobe management, personalized outfits, supported size guidance, Outfit Remix, wardrobe-aware shopping and lightweight social preference signals. Duo Match and visual extensions are conditional. No retailer API access, dataset selection, partnership, experimental result or institutional approval is asserted. No software license has been selected for the future application; do not infer one from the public website.
+
+## Website presentation
+
+The page uses local serif and sans-serif fonts, a warm paper background and restrained accent colors. The Outfit Remix example is illustrative and does not display a measured result. The architecture is rendered as responsive HTML layers. Navigation remains available while scrolling, with visible keyboard focus and reduced-motion support. The A/B/C comparison adapts to narrow screens without horizontal scrolling.
