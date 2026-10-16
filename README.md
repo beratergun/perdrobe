@@ -81,3 +81,9 @@ The main Project Proposal is one page: project name, live webpage URL, team memb
 The previous eight-page document is retained separately as a Technical Annex. It provides optional engineering detail and is not presented as an additional course requirement. Use `proposal/PerDrobe_LMS_Submission.txt` for the form fields and `proposal/PerDrobe_LMS_Project_Description.txt` for the description alone. Both jury names must be confirmed by the supervisor before the names requirement can be completed.
 
 The course instruction also requires LMS submission and email delivery to the supervisor and jury. Publishing the page does not perform those submission steps. No email or LMS submission was made by this package.
+
+## Official logo and final spacing revision
+
+The primary proposal embeds TED University's official English horizontal logo, obtained from https://www.tedu.edu.tr/themes/custom/tedu/tedu-colorful-en.svg via the university's official corporate identity materials (https://www.tedu.edu.tr/en/kurumsal-kimlik). The logo is reproduced in its original colors and aspect ratio. It does not imply institutional approval of the project.
+
+The main proposal remains one A4 page. Its unchanged 207-word project description consists of exactly two paragraphs, with 1.20 line spacing and 12 pt paragraph spacing. The editable Word file was exported using Microsoft Word, and the rendered PDF page was visually inspected. The project URL and the footer link to the Technical Annex are active PDF hyperlinks. Literature references remain in the annex; the main proposal describes planned project work and introduces no unsupported research claims.
