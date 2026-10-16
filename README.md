@@ -26,7 +26,7 @@ perdrobe/
     PerDrobe_LMS_Project_Description.txt
 ```
 
-No framework, build step, JavaScript, backend, analytics, API key or external font is required. All internal resources use relative paths and work under the `/perdrobe/` project prefix. Student numbers are omitted from the visible team section; the downloadable proposal includes only the supplied student number.
+No framework, build step, JavaScript, backend, analytics, API key or external font is required. All internal resources use relative paths and work under the `/perdrobe/` project prefix. Student numbers are omitted from the visible team section; the downloadable proposal includes all three student numbers supplied by the team.
 
 ## Publish with GitHub Pages
 
